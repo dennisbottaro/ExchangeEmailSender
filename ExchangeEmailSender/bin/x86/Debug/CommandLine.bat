@@ -1,0 +1,1 @@
+ExchangeEmailSender.exe djb@pringle.com Pr1ngl32016!@# atomicfroman@gmail.com "Test Message" CommandLine.bat
